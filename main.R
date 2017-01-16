@@ -4,6 +4,7 @@
 # Import packages
 library(raster)
 library(rgdal)
+library(rgeos)
 
 source("R/download.R")
 source("R/ProximityToRailway.R")
